@@ -1,3 +1,10 @@
 ===========
 Transaction
 ===========
+Sale
+----
+  <req></req>
+Void
+----
+Cancel
+------
