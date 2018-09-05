@@ -3,7 +3,7 @@ Transaction
 ===========
 Sale
 ----
-  <req></req>
+    <req></req>
 Void
 ----
 Cancel
