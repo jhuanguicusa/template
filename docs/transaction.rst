@@ -29,7 +29,20 @@ Void
 ----
 Request
 """""""
+::
 
+  <Req>
+    <Cmd>
+      <CmdId>TxnStart</CmdId>
+      <CmdTout>300</CmdTout>
+    </Cmd>
+    <Param>
+      <Txn>
+        <TxnType>Void</TxnType>
+        <TxnId>${TxnId}</TxnId>
+      </Txn>
+    </Param>
+  </Req>
 Response
 """"""""
 
