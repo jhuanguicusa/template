@@ -3,8 +3,6 @@ Transaction
 ===========
 Sale
 ----
-::
-
   | <Req>
   |   <Cmd>
   |     <CmdId>TxnStart</CmdId>
