@@ -3,7 +3,8 @@ Transaction
 ===========
 Sale
 ----
-- Request
+Request
+"""""""
 ::
 
   <Req>
@@ -19,14 +20,18 @@ Sale
       </Txn>
     </Param>
   </Req>
-- Response
+Response
+""""""""
 Void
 ----
-- Request
-- Response
+Request
+"""""""
+Response
+""""""""
 Cancel
 ------
-- Request
+Request
+"""""""
 ::
 
   <Req>
@@ -34,7 +39,8 @@ Cancel
       <CmdId>TxnCancel</CmdId>
     </Cmd>
   </Req>
-- Response
+Response
+""""""""
 ::
 
   <Resp>
