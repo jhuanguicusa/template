@@ -3,8 +3,7 @@ Transaction
 ===========
 Sale
 ----
-`Request`
-"""""""""
+--Request--
 ::
 
   <Req>
