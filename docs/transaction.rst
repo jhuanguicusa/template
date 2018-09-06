@@ -67,20 +67,20 @@ Response
 """"""""
 ::
 
-<Resp>
-  <Cmd>
-    <CmdId>TxnStartResp</CmdId>
-    <StatusCode>0000</StatusCode>
-    <StatusText>Successful</StatusText>
-  </Cmd>
-  <Data>
-    <Txn>
-      <TxnResult>02</TxnResult>
-      <TxnResultMsg>Online Approved</TxnResultMsg>
-      <TxnId>1102036794</TxnId>
-    </Txn>
-  </Data>
-</Resp>
+  <Resp>
+    <Cmd>
+      <CmdId>TxnStartResp</CmdId>
+      <StatusCode>0000</StatusCode>
+      <StatusText>Successful</StatusText>
+    </Cmd>
+    <Data>
+      <Txn>
+        <TxnResult>02</TxnResult>
+        <TxnResultMsg>Online Approved</TxnResultMsg>
+        <TxnId>1102036794</TxnId>
+      </Txn>
+    </Data>
+  </Resp>
 -----------------------------------
 
 Cancel
