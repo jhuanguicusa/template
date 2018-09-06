@@ -3,8 +3,8 @@ Transaction
 ===========
 Sale
 ----
-==Request==
-"""""""""""
+Request
+"""""""
 ::
 
   <Req>
@@ -20,18 +20,21 @@ Sale
       </Txn>
     </Param>
   </Req>
-==Response==
-""""""""""""
+Response
+""""""""
+-----------------------------------
 Void
 ----
-==Request==
-"""""""""""
+Request
+"""""""
 
-==Response==
-""""""""""""
+Response
+""""""""
+-----------------------------------
 Cancel
-==Request==
-"""""""""""
+------
+Request
+"""""""
 ::
 
   <Req>
@@ -39,8 +42,8 @@ Cancel
       <CmdId>TxnCancel</CmdId>
     </Cmd>
   </Req>
-==Response==
-""""""""""""
+Response
+""""""""
 ::
 
   <Resp>
@@ -50,3 +53,4 @@ Cancel
       <StatusText>Successful</StatusText>
     </Cmd>
   </Resp>
+-----------------------------------
