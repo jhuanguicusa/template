@@ -22,7 +22,9 @@ Request
   </Req>
 Response
 """"""""
+
 -----------------------------------
+
 Void
 ----
 Request
@@ -30,7 +32,9 @@ Request
 
 Response
 """"""""
+
 -----------------------------------
+
 Cancel
 ------
 Request
@@ -53,4 +57,5 @@ Response
       <StatusText>Successful</StatusText>
     </Cmd>
   </Resp>
+
 -----------------------------------
