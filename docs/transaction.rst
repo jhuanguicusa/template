@@ -34,7 +34,6 @@ Request
   <Req>
     <Cmd>
       <CmdId>TxnStart</CmdId>
-      <CmdTout>300</CmdTout>
     </Cmd>
     <Param>
       <Txn>
