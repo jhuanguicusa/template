@@ -23,3 +23,10 @@ Void
 ----
 Cancel
 ------
+::
+
+  <Req>
+    <Cmd>
+      <CmdId>TxnCancel</CmdId>
+    </Cmd>
+  </Req>
