@@ -3,6 +3,7 @@ Transaction
 ===========
 Sale
 ----
+- Request
 ::
 
   <Req>
@@ -18,11 +19,14 @@ Sale
       </Txn>
     </Param>
   </Req>
-
+- Response
 Void
 ----
+- Request
+- Response
 Cancel
 ------
+- Request
 ::
 
   <Req>
@@ -30,3 +34,13 @@ Cancel
       <CmdId>TxnCancel</CmdId>
     </Cmd>
   </Req>
+- Response
+::
+
+  <Resp>
+    <Cmd>
+      <CmdId>TxnCancelResp</CmdId>
+      <StatusCode>0000</StatusCode>
+      <StatusText>Successful</StatusText>
+    </Cmd>
+  </Resp>
