@@ -10,9 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
-
-   *
+   
+   pot_overview
+   installation
+   transaction
+   usage
+   readme
+   authors
    
 
 
