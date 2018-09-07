@@ -12,14 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   :caption: Feature Documentation
-
-   pot_overview
-   usage
-   installation
-   transaction
-   authors
-   readme
+   *
    
 
 
