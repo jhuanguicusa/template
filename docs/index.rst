@@ -11,13 +11,9 @@ Contents:
 .. toctree::
    :caption: Table of Contents
    :maxdepth: 2
+   :glob:
    
-   pot_overview
-   installation
-   transaction
-   usage
-   readme
-   authors
+   *
    
 
 
