@@ -13,11 +13,13 @@ Contents:
    :maxdepth: 2
    :numbered:
    
-   *
+   pot_overview
+   installation
+   transaction
+   usage
+   readme
+   authors
    
-
-
-
 Indices and tables
 ==================
 
