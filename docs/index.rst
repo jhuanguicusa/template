@@ -17,7 +17,6 @@ Contents:
    installation
    transaction
    usage
-   readme
    authors
    
 Indices and tables
