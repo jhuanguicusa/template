@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
    
    pot_overview
