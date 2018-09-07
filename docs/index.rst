@@ -9,6 +9,7 @@ Welcome To UIC PoT API Documentation!
 Contents:
 
 .. toctree::
+   :caption: Table of Contents
    :maxdepth: 2
    
    pot_overview
